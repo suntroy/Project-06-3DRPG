@@ -55,7 +55,15 @@ Traffic Cone from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.c
 
 Fonts used:
 
+Cityworm by Vladimir Nikolic on DaFont (https://www.dafont.com/cityworm.font)
+
+Cityscape by Olive Atkins on DaFont (https://www.dafont.com/cityscape-font.font)
+
+Cityscape by The Scriptorium on DaFont (www.dafont.com/cityscape.font)
+
 Materials used:
+
+
 
 # Created by
 Sunny Troyer
