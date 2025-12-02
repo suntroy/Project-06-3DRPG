@@ -1,0 +1,19 @@
+[gd_resource type="StandardMaterial3D" load_steps=6 format=3 uid="acg_ufndq7cl"]
+
+[ext_resource type="Texture2D" uid="uid://acg_qrjilw1y" id="Color" path="./Bricks102_1K-PNG_Color.png"]
+[ext_resource type="Texture2D" uid="uid://acg_tlurwqf2" id="AmbientOcclusion" path="./Bricks102_1K-PNG_AmbientOcclusion.png"]
+[ext_resource type="Texture2D" uid="uid://acg_iy7e5kht" id="Displacement" path="./Bricks102_1K-PNG_Displacement.png"]
+[ext_resource type="Texture2D" uid="uid://acg_48w06tgy" id="Roughness" path="./Bricks102_1K-PNG_Roughness.png"]
+[ext_resource type="Texture2D" uid="uid://acg_a98e4zul" id="NormalGL" path="./Bricks102_1K-PNG_NormalGL.png"]
+[resource]
+albedo_texture = ExtResource("Color")
+ao_enabled = true
+ao_texture = ExtResource("AmbientOcclusion")
+ao_texture_channel = 4
+roughness_texture = ExtResource("Roughness")
+roughness_texture_channel = 4
+normal_texture = ExtResource("NormalGL")
+normal_enabled = true
+heightmap_texture = ExtResource("Displacement")
+heightmap_scale = 1.0
+heightmap_enabled = true
