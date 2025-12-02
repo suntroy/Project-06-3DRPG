@@ -23,56 +23,64 @@ Coin sound effect created by Sunny Troyer on ChipTone on itch.io (https://sfbgam
 
 Models used:
 
-Cthulhu_Coin_HW10 by nahem.san on SketchFab (https://sketchfab.com/3d-models/cthulhu-coin-hw10-9bdff09410ef47aa9aec71abbd02f193)
+* Cthulhu_Coin_HW10 by nahem.san on SketchFab (https://sketchfab.com/3d-models/cthulhu-coin-hw10-9bdff09410ef47aa9aec71abbd02f193)
 
-Street Bench from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873784/street-bench)
+* Street Bench from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873784/street-bench)
 
-Airplanes Pack by @Quaternius on Creazilla (https://creazilla.com/media/3d-model/1403716/airplanes-pack)
+* Airplanes Pack by @Quaternius on Creazilla (https://creazilla.com/media/3d-model/1403716/airplanes-pack)
 
-Doors Set from https://blendswap.com/ on Creazilla (https://creazilla.com/media/3d-model/39176/doors-set)
+* Doors Set from https://blendswap.com/ on Creazilla (https://creazilla.com/media/3d-model/39176/doors-set)
 
-Radio from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873801/radio)
+* Radio from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873801/radio)
 
-Outdoor Table from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873776/outdoor-table)
+* Outdoor Table from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873776/outdoor-table)
 
-Outdoor Chair from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873775/outdoor-chair)
+* Outdoor Chair from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873775/outdoor-chair)
 
-ATM from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873783/atm)
+* ATM from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873783/atm)
 
-Car Wheel from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873932/car-wheel)
+* Car Wheel from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873932/car-wheel)
 
-Car Key from https://blendswap.com/ on Creazilla (https://creazilla.com/media/3d-model/5293/car-key)
+* Car Key from https://blendswap.com/ on Creazilla (https://creazilla.com/media/3d-model/5293/car-key)
 
-Skeleton Key from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873944/skeleton-key)
+* Skeleton Key from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873944/skeleton-key)
 
-1968 Mustang GT Fastback from https://blendswap.com/ on Creazilla (https://creazilla.com/media/3d-model/63561/1968-mustang-gt-fastback)
+* 1968 Mustang GT Fastback from https://blendswap.com/ on Creazilla (https://creazilla.com/media/3d-model/63561/1968-mustang-gt-fastback)
 
-Bus Stop from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873773/bus-stop)
+* Bus Stop from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873773/bus-stop)
 
-City Mail Box from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873778/city-mail-box)
+* City Mail Box from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873778/city-mail-box)
 
-Outdoor Table Chair Set by James Ray Cock on Creazilla (https://creazilla.com/media/3d-model/7832484/outdoor-table-chair-set)
+* Outdoor Table Chair Set by James Ray Cock on Creazilla (https://creazilla.com/media/3d-model/7832484/outdoor-table-chair-set)
 
-Dumpster from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873787/dumpster)
+* Dumpster from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873787/dumpster)
 
-Outdoor Trashcan from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873772/outdoor-trashcan)
+* Outdoor Trashcan from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873772/outdoor-trashcan)
 
-Roadblock from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873774/roadblock)
+* Roadblock from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873774/roadblock)
 
-Payphone from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873780/payphone)
+* Payphone from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873780/payphone)
 
-Traffic Cone from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873782/traffic-cone)
+* Traffic Cone from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873782/traffic-cone)
 
 Fonts used:
 
-Cityworm by Vladimir Nikolic on DaFont (https://www.dafont.com/cityworm.font)
+* Cityworm by Vladimir Nikolic on DaFont (https://www.dafont.com/cityworm.font)
 
-Cityscape by Olive Atkins on DaFont (https://www.dafont.com/cityscape-font.font)
+* Cityscape by Olive Atkins on DaFont (https://www.dafont.com/cityscape-font.font)
 
-Cityscape by The Scriptorium on DaFont (www.dafont.com/cityscape.font)
+* Cityscape by The Scriptorium on DaFont (www.dafont.com/cityscape.font)
 
 Materials used:
+* Metal 049B on AmbientCG (https://ambientcg.com/view?id=Metal049B) used for car key
 
+* Rock 043S on AmbientCG (https://ambientcg.com/view?id=Rock043S) used for sidewalks
+
+* Bricks 066 on AmbientCG (https://ambientcg.com/view?id=Bricks066) used for alleyways and public areas
+
+* Road 001 on AmbientCG (https://ambientcg.com/view?id=Road001) used for roads
+
+* Road 007 on AmbientCG (https://ambientcg.com/view?id=Road007) used for roads
 
 
 # Created by
