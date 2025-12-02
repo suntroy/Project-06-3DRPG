@@ -75,9 +75,22 @@ Character models used:
 * Pete from Mixamo.com
 
 Animations used: 
-* 
+* Sitting On The Floor from Mixamo.com
 
-* 
+* Sitting In Chair Hands Resting On Thighs from Mixamo.com
+
+* Sitting And Talking To Another Person from Mixamo.com
+
+* Sad Idle Variation 1 from Mixamo.com
+
+* Low Crouching Idle from Mixamo.com
+
+* Laying On Back Idle from Mixamo.com
+
+* Man Working On Device from Mixamo.com
+
+* Looking Around With Dual Wielded Pistols from Mixamo.com
+
 Fonts used:
 
 * Cityworm by Vladimir Nikolic on DaFont (https://www.dafont.com/cityworm.font)
