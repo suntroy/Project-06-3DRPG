@@ -1,6 +1,15 @@
 # Project-06 FETCH QUEST
 For this project, we were given a basic 3D player model to control, instructions on how to use ProBuilder in Unity, instructions on how to find and utilize 3d models and animation, and how to create dialog between NPCs and a player. Then, we were expected to create a 3D game of some sort that met the following requirements:
-
+* Includes a user-controlled third-person 3D player - NOT the default 3rd Person model
+* The camera follows the movement of the player
+* The player's model is animated - with at least one mixamo animation
+* Includes at least one AI agent
+* Includes a dialogue conversation with an agent
+* Reports the player's score
+* The game includes terrain and/or obstacles
+* The game includes a hand-held item or weapon  with which the player can influence the world
+* The game has a clear objective
+* Adds interesting features (beyond the scope of the assignment)
 # Features added
 
 # References to resources used in the project
