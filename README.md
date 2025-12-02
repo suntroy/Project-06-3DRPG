@@ -21,7 +21,7 @@ Background music created by Sunny Troyer on SoundTrap, with loops used from Free
 
 Coin sound effect created by Sunny Troyer on ChipTone on itch.io (https://sfbgames.itch.io/chiptone)
 
-Models used:
+Environmental models used:
 
 * Cthulhu_Coin_HW10 by nahem.san on SketchFab (https://sketchfab.com/3d-models/cthulhu-coin-hw10-9bdff09410ef47aa9aec71abbd02f193)
 
@@ -63,6 +63,21 @@ Models used:
 
 * Traffic Cone from https://www.3dmodelscc0.com/ on Creazilla (https://creazilla.com/media/3d-model/7873782/traffic-cone)
 
+Character models used:
+* Louise from Mixamo.com
+
+* James from Mixamo.com
+
+* Elizabeth from Mixamo.com
+
+* Suzie from Mixamo.com
+
+* Pete from Mixamo.com
+
+Animations used: 
+* 
+
+* 
 Fonts used:
 
 * Cityworm by Vladimir Nikolic on DaFont (https://www.dafont.com/cityworm.font)
