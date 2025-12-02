@@ -1,4 +1,5 @@
-# Project-06
+# Project-06 FETCH QUEST
+For this project, we were given a basic 3D player model to control, instructions on how to use ProBuilder in Unity, instructions on how to find and utilize 3d models and animation, and how to create dialog between NPCs and a player. Then, we were expected to create a 3D game of some sort that met the following requirements:
 
 # Features added
 
