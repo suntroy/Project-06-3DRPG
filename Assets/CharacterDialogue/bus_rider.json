@@ -1,0 +1,1 @@
+﻿{"inkVersion":21,"root":[["^Do you know when the bus is coming? I've been waiting forever. I hope I have enough money to ride, I haven't even checked my purse yet.","\n","ev","str","^DONE","/str","/ev",{"*":"0.c-0","flg":20},{"c-0":["^ ","end","\n",{"->":"0.g-0"},{"#f":5}],"g-0":["done",{"#f":5}]}],"done",{"#f":1}],"listDefs":{}}

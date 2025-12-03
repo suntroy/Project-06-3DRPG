@@ -9,6 +9,8 @@ TagManager:
   - coinsText
   - keyHolder
   - npc
+  - door
+  - key
   layers:
   - Default
   - TransparentFX
@@ -17,8 +19,8 @@ TagManager:
   - Water
   - UI
   - npc
-  - 
-  - 
+  - door
+  - SKholder
   - 
   - 
   - 
