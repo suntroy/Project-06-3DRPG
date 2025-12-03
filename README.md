@@ -11,7 +11,14 @@ For this project, we were given a basic 3D player model to control, instructions
 * The game has a clear objective
 * Adds interesting features (beyond the scope of the assignment)
 # Features added
-
+* Large downtown city areas with imported models and materials
+* Airplane that flys back and forth above the map as a basic AI agent
+* User-controlled 3D player with imported model and animations
+* Multiple NPCs to interact with, with different models and animations
+* Two paths to an end goal (gain money, or sort a conflict)
+* UI to report coin score
+* Ability to hold store key once obtained (required to be in hand to leave)
+* Imported/created music, created sound effects, and much more writing than required as extra interesting features
 # References to resources used in the project
 Main menu picture taken from Adobe Stock, "Vector halftone gradient effect. Vibrant abstract background. Retro 80's style colors and textures." by Kundra (https://stock.adobe.com/images/vector-halftone-gradient-effect-vibrant-abstract-background-retro-80-s-style-colors-and-textures/166478311?prev_url=detail)
 
