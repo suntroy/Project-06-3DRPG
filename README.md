@@ -14,6 +14,7 @@ For this project, we were given a basic 3D player model to control, instructions
 * Large downtown city areas with imported models and materials
 * Airplane that flys back and forth above the map as a basic AI agent
 * User-controlled 3D player with imported model and animations
+* Three emotes for the user to use
 * Multiple NPCs to interact with, with different models and animations
 * Two paths to an end goal (gain money, or sort a conflict)
 * UI to report coin score
