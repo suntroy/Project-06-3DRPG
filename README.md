@@ -110,6 +110,14 @@ Materials used:
 
 * Road 007 on AmbientCG (https://ambientcg.com/view?id=Road007) used for roads
 
+* Facade 018 A on AmbientCG (https://ambientcg.com/view?id=Facade018A) used for faraway buildings
+
+* Facade 005 on AmbientCG (https://ambientcg.com/view?id=Facade005) used for near buildings
+
+* Facade 001 on AmbientCG (https://ambientcg.com/view?id=Facade001) used for near buildings
+
+* Facade 006 on AmbientCG (https://ambientcg.com/view?id=Facade006) used for faraway buildings
+
 
 # Created by
 Sunny Troyer
